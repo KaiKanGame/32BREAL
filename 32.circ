@@ -71,7 +71,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
     </tool>
   </lib>
-  <lib desc="#Memory" name="4"/>
   <lib desc="#Memory" name="4">
     <tool name="Register">
       <a name="width" val="32"/>
